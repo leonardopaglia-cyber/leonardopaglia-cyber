@@ -2,7 +2,8 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="file:///C:/Users/User/Downloads/moonlight.gif"  />
+<img data-importer="image" align="right" height="150" src="![Uploading moonlight.gif…]()
+"  />
 
 ###
 
