@@ -8,4 +8,16 @@
 
 <img width="220" height="175" alt="noctis-ffxv" src="https://github.com/user-attachments/assets/7e03d8d5-e319-400b-bd9c-044afcf7f068" />
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src=""  />
+</div>
+
+###
