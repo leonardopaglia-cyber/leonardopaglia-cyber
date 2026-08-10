@@ -6,6 +6,9 @@
 
 <img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/c4f4e614-2a5d-4999-9eed-5ec8a05545d5" />
 
+<img width="220" height="175" alt="noctis-ffxv" src="https://github.com/user-attachments/assets/7e03d8d5-e319-400b-bd9c-044afcf7f068" />
+
+
  />
 
 "  />
