@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Final Fantasy XV</h2>
+<h2 data-importer="text" align="left">Final Fantasy </h2>
 
 ###
 
@@ -19,5 +19,7 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src=""  />
 </div>
+
+
 
 ###
