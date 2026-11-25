@@ -1,5 +1,3 @@
-<h2 data-importer="text" align="left">Final Fantasy XV </h2>
-
 ###
 <img width="540" height="310" alt="_" src="https://github.com/user-attachments/assets/f5c0da67-db42-4497-aba8-b1a4aebb371d" />
 <h2 data-importer="text" align="left">私は自分自身を愛している。夜、そして平穏を。</h2>
